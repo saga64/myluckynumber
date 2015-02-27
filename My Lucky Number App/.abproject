@@ -1,0 +1,38 @@
+{
+  "ProjectName": "My Lucky Number App",
+  "ProjectGuid": "4bbdb53d-94fa-4c0c-92e9-f263eb90bc99",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.MyLuckyNumberApp",
+  "DisplayName": "My Lucky Number App",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{d437f0d0-8573-444d-86f4-777b2715558c}",
+  "WP8ProductID": "{1283719c-671d-4f94-a5b5-e04a8396deb4}",
+  "WPSdk": "8.0",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
